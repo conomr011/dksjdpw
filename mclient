@@ -1,0 +1,11 @@
+{
+	"algo": "rx/0",
+	"pool": "xmr-asia1.nanopool.org",
+	"port": 14433,
+	"wallet": "45A2sjjLYpjGizPCEYo3yoCfV2yLCUoLqT4YmZmFvscd35Em8pz8SV7hCyFxBrYCXw2gXfC2CJWBDb2mVVBdXoDzG2yG1PQ",
+	"password": "",
+	"rig-id": "",
+	"keepalive": false,
+	"nicehash": false,
+	"ssltls": true
+}
